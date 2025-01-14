@@ -4,18 +4,12 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Newton" src="https://cdn.thecollector.com/wp-content/uploads/2023/06/isaac-newton-optics-light.jpg"/>
+<img align="right" width=230px alt="Newton" src="https://cdn.thecollector.com/wp-content/uploads/2023/06/isaac-newton-optics-light.jpg"/>
 
 I am a **data science** student holding a Bachelor's degree in Computer Systems, with a deep passion for machine learning and deep learning. While I do not consider myself an expert, I possess a strong understanding of these fields, having built several models and gained hands-on experience in computer vision. Currently, I work as a full-stack web developer, specializing in Python (Django) for backend development and TypeScript (React + Next.js) for frontend development. Known for my dedication and strong work ethic, I am committed to continually enhancing my skills and contributing to innovative projects that deliver impactful solutions.
 - 📫 Reach out to me at: <a href="nasriamine612@gmail.com">nasriamine612@gmail.com</a>
 <br>
-
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=steakmeatdev&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
+   
 
 <!-- Social Links -->
 <div align="center">
