@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Newton" src="https://cdn.thecollector.com/wp-content/uploads/2023/06/isaac-newton-optics-light.jpg"/>
 
 I am a **data science** student holding a Bachelor's degree in Computer Systems, with a deep passion for machine learning and deep learning. While I do not consider myself an expert, I possess a strong understanding of these fields, having built several models and gained hands-on experience in computer vision. Currently, I work as a full-stack web developer, specializing in Python (Django) for backend development and TypeScript (React + Next.js) for frontend development. Known for my dedication and strong work ethic, I am committed to continually enhancing my skills and contributing to innovative projects that deliver impactful solutions.
 - 📫 Reach out to me at: <a href="nasriamine612@gmail.com">nasriamine612@gmail.com</a>
@@ -70,6 +70,3 @@ I am a **data science** student holding a Bachelor's degree in Computer Systems,
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 <br>
 <br>
-
-<!-- New Image Section -->
-<img src="https://cdn.thecollector.com/wp-content/uploads/2023/06/isaac-newton-optics-light.jpg" width="100%" />
