@@ -1,12 +1,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/steakmeatdev">Amine Nasri</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/steakmeatdev">Amine</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=230px alt="Newton" src="https://cdn.thecollector.com/wp-content/uploads/2023/06/isaac-newton-optics-light.jpg"/>
 
-I am a **data science** student holding a Bachelor's degree in Computer Systems, with a deep passion for machine learning and deep learning. While I do not consider myself an expert, I possess a strong understanding of these fields, having built several models and gained hands-on experience in computer vision. Currently, I work as a full-stack web developer, specializing in Python (Django) for backend development and TypeScript (React + Next.js) for frontend development. Known for my dedication and strong work ethic, I am committed to continually enhancing my skills and contributing to innovative projects that deliver impactful solutions.
+I am a **data science** student with a Bachelor's degree in Computer Systems, currently a full-stack web developer. I specialize in Python (Django) for backend development and TypeScript (React + Next.js) for frontend. Alongside my web development experience, I have a strong foundation in machine learning and deep learning, with hands-on experience in computer vision. Dedicated to continuous improvement, I aim to apply my skills to create innovative solutions and impactful projects.
 - 📫 Reach out to me at: <a href="nasriamine612@gmail.com">nasriamine612@gmail.com</a>
 <br>
    
