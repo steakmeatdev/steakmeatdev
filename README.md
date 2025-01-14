@@ -22,7 +22,6 @@ I am a **data science** student holding a Bachelor's degree in Computer Systems,
   <a href="nasriamine612@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/amine-nasri19/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://www.kaggle.com/aminenasri1"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
-  <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
 </div>
 
 <br>
@@ -71,3 +70,6 @@ I am a **data science** student holding a Bachelor's degree in Computer Systems,
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 <br>
 <br>
+
+<!-- New Image Section -->
+<img src="https://cdn.thecollector.com/wp-content/uploads/2023/06/isaac-newton-optics-light.jpg" width="100%" />
