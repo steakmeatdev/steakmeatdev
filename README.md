@@ -1,5 +1,5 @@
 
-<h1><b>Hi there, I'm </b><a href="https://github.com/steakmeatdev">Amine</a></h1>
+<h1><b>Hi there, I'm </b>Amine</h1>
 <br>
 
 ***About me***
