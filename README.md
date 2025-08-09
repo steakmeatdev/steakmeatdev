@@ -1,6 +1,9 @@
 
 <h1>Steak Meat Development</h1>
-*Cooking code and steaks to perfection*  
+<p style="font-style: italic; color: #b85c38; font-weight: 600; font-size: 1.2rem; margin-top: -10px; margin-bottom: 20px;">
+  Cooking code and steaks to perfection
+</p>
+
 <br>
 
 ***About the chef***
